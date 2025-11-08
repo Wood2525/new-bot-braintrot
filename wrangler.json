@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "new-bot-braintrot",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "f7bff65f-4c4b-4d0d-bd96-759ed5f0ebf6",
+      "database_name": "users"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
